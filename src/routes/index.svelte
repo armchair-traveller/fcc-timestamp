@@ -14,8 +14,12 @@
     <div class="mt-3 font-medium">
       <p>Example Usage</p>
       <div class="text-[#A1B8F3] ml-4">
-        <a class="hover:font-bold">{origin}/api/2015-12-25</a>
-        <a class="hover:font-bold">{origin}/api/1451001600000</a>
+        <a href="{origin}/api/2015-12-25" class="hover:font-bold"
+          >{origin}/api/2015-12-25</a
+        >
+        <a href="{origin}/api/1451001600000" class="hover:font-bold"
+          >{origin}/api/1451001600000</a
+        >
       </div>
     </div>
     <div class="mt-3 font-medium">

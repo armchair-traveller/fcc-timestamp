@@ -6,6 +6,7 @@ const config = {
     adapter: JAM(),
     // hydrate the <div id="svelte"> element in src/app.html
     target: "#svelte",
+    ssr: false,
   },
 
   preprocess: [
