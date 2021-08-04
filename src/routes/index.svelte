@@ -5,15 +5,17 @@
 <div
   class="min-w-screen min-h-screen grid place-items-center bg-[#101030] text-white"
 >
-  <section class="w-10/12 max-w-prose">
-    <h1 class="font-extrabold text-2xl">Timestamp Microservice</h1>
-    <p class="ml-4">
-      by <span
-        class="text-[#FFE193] font-medium hover:font-bold focus:font-bold"
-        ><a href="https://github.com/armchair-traveller">Fang</a>🦁</span
-      >
-    </p>
-    <div class="mt-3 font-medium">
+  <section class="w-10/12 max-w-prose space-y-4 leading-relaxed">
+    <div>
+      <h1 class="font-extrabold text-2xl">Timestamp Microservice</h1>
+      <p class="ml-4">
+        by <span
+          class="text-[#FFE193] font-medium hover:font-bold focus:font-bold"
+          ><a href="https://github.com/armchair-traveller">Fang</a>🦁</span
+        >
+      </p>
+    </div>
+    <div class="font-medium">
       <p>Example Usage</p>
       <div class="text-[#A1B8F3] ml-4">
         <a
@@ -26,7 +28,7 @@
         >
       </div>
     </div>
-    <div class="mt-3 font-medium">
+    <div class="font-medium">
       <p class="">Example Output</p>
       <div class="ml-4 text-gray-300">
         <code
